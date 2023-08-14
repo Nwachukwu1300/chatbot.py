@@ -1,5 +1,4 @@
 # Importing json, random, re and nltk
-# The first video I watched for the project: https://www.youtube.com/watch?v=1lwddP0KUEg&t=1523s
 # From the video I knew that the chatbot would need the nltk module
 import json
 import random
